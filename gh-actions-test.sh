@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -ex
+#set -ex
 
 # Script ran by Github actions for tests
 #
